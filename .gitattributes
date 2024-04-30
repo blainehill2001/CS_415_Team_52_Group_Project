@@ -8,3 +8,10 @@ DerivedDataCache filter=lfs diff=lfs merge=lfs -text
 Intermediate filter=lfs diff=lfs merge=lfs -text
 Saved filter=lfs diff=lfs merge=lfs -text
 Config filter=lfs diff=lfs merge=lfs -text
+Content/MS_SandsEss filter=lfs diff=lfs merge=lfs -text
+Content/MS_SandsEss/ filter=lfs diff=lfs merge=lfs -text
+Content/MS_SandsEss/Surface/07_Thai_Wet_Sand_Footprints_2x2_M_teelahok/teelahok_8K_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MS_SandsEss/MS_SandsEssSource.zip filter=lfs diff=lfs merge=lfs -text
+Content/MS_SandsEss/Surface/04_Thai_Sand_Gravel_2x2_M_tdziadun/tdziadun_8K_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MS_SandsEss/Surface/04_Thai_Sand_Gravel_2x2_M_tdziadun/tdziadun_8K_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MS_SandsEss/Surface/07_Thai_Wet_Sand_Footprints_2x2_M_teelahok/teelahok_8K_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
